@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gabrielalmeidapessoa
+- 👀 Eu estou interessado a aptrender a programar novas linguagens.
+- 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScrip e Scratch
